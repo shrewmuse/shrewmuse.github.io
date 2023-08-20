@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="assets/images/shrew_3b_cover_no_text_web_jpeg.jpeg" alt="shrew_image" width=400 height=400>
